@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2722B333C2A6EF7A3B531583AF1E3211890BC34B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2722B333C2A6EF7A3B531583AF1E3211890BC34B" : 0,
+    "DCF7184065837CABB818645408C551F33A2D17BD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "52E41A5D-5597-4DAB-BC0B-BE013BC06E2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2722B333C2A6EF7A3B531583AF1E3211890BC34B" : "Homework-04\/",
+    "DCF7184065837CABB818645408C551F33A2D17BD" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "homework04",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "homework04\/homework04.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielportillo43\/CS172-HW04.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2722B333C2A6EF7A3B531583AF1E3211890BC34B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielportillo43\/CS172_HW01.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCF7184065837CABB818645408C551F33A2D17BD"
+    }
+  ]
+}
