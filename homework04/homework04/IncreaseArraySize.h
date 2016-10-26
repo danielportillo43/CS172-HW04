@@ -9,13 +9,13 @@
 #ifndef IncreaseArraySize_h
 #define IncreaseArraySize_h
 //A function that doubles the size of an array
-int *doubleCapacity(const int *list, int size) {
+template <typename T>
+T *doubleCapacity(const T *list, int size) {
     //creates the an array that is double "size"
     int newSize = (2 * size);
-    int const *pSize = &newSize;
-    int *result = new int[*pSize];
+    T *result = new T[newSize];
     //initialize the array...
-    for (int i = 0; i < *pSize; i++) {
+    for (int i = 0; i < newSize; i++) {
         result[i] = NULL;
     }
     //copies the previous values of "list" to the new array

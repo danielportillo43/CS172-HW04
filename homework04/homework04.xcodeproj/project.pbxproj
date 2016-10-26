@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		1428243C1DBD8AA100D37389 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1428243B1DBD8AA100D37389 /* main.cpp */; };
+		1428244B1DC0745500D37389 /* theRectangle2Dclass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 142824491DC0745500D37389 /* theRectangle2Dclass.cpp */; };
+		1428244E1DC0938F00D37389 /* theCourseclass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1428244C1DC0938F00D37389 /* theCourseclass.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,7 +31,9 @@
 		142824451DBDA96000D37389 /* IncreaseArraySize.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IncreaseArraySize.h; sourceTree = "<group>"; };
 		142824461DBDBA9000D37389 /* FindTheSmallestElement.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FindTheSmallestElement.h; sourceTree = "<group>"; };
 		142824471DBDCEC500D37389 /* theRectangle2Dclass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = theRectangle2Dclass.h; sourceTree = "<group>"; };
-		142824481DBDCFE400D37389 /* theCourseclass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = theCourseclass.h; sourceTree = "<group>"; };
+		142824491DC0745500D37389 /* theRectangle2Dclass.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = theRectangle2Dclass.cpp; sourceTree = "<group>"; };
+		1428244C1DC0938F00D37389 /* theCourseclass.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = theCourseclass.cpp; sourceTree = "<group>"; };
+		1428244D1DC0938F00D37389 /* theCourseclass.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = theCourseclass.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +71,9 @@
 				142824451DBDA96000D37389 /* IncreaseArraySize.h */,
 				142824461DBDBA9000D37389 /* FindTheSmallestElement.h */,
 				142824471DBDCEC500D37389 /* theRectangle2Dclass.h */,
-				142824481DBDCFE400D37389 /* theCourseclass.h */,
+				142824491DC0745500D37389 /* theRectangle2Dclass.cpp */,
+				1428244C1DC0938F00D37389 /* theCourseclass.cpp */,
+				1428244D1DC0938F00D37389 /* theCourseclass.hpp */,
 			);
 			path = homework04;
 			sourceTree = "<group>";
@@ -128,6 +134,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1428244E1DC0938F00D37389 /* theCourseclass.cpp in Sources */,
+				1428244B1DC0745500D37389 /* theRectangle2Dclass.cpp in Sources */,
 				1428243C1DBD8AA100D37389 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
